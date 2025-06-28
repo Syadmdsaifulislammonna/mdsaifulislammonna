@@ -1,80 +1,51 @@
-<!-- Modern & Colorful Animated Profile README for Md Saiful Islam Monna -->
-
+<h1 align="center">👋 Hello, World! I'm Md Saiful Islam Monna</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=29ABE2&center=true&vCenter=true&width=700&lines=Hello%2C+world!+I'm+Md+Saiful+Islam+Monna+%F0%9F%91%8B;CSE+Student+at+Uttara+University+%F0%9F%8F%AB;Cloud+%7C+Linux+%7C+Open+Source+%7C+Dev+%F0%9F%92%BB;Keep+Learning+Keep+Growing+%F0%9F%8C%8F" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CSE%20Student-Uttara%20University-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-Enthusiast-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Cloud%20Computing-Learner-29ABE2?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20Source%20Dev-Active-orange?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Student-CS%26E-green?style=flat-square" alt="Student Badge"/>
+  <img src="https://img.shields.io/badge/Open--Source-Enthusiast-blue?style=flat-square" alt="Open Source Badge"/>
+  <img src="https://img.shields.io/badge/Location-Bangladesh%20🇧🇩-orange?style=flat-square" alt="Location Badge"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 **Computer Science and Engineering student** at **Uttara University**, Bangladesh 🇧🇩  
-- 💻 Passionate about **coding**, **Linux**, **cloud technologies**, and **open-source**  
-- 🌱 Currently learning **Full-Stack Development**, **Python**, and **Cloud Computing**  
-- 🤝 Open to collaborating on beginner-friendly projects and student tech initiatives  
+🎓 **Computer Science and Engineering student** at **Uttara University**, Bangladesh 🇧🇩  
+💻 **Passionate** about coding, Linux, cloud technologies, and open-source development  
+🌱 Currently **learning** **Full-Stack Development**, **Python**, and **Cloud Computing**  
+📚 Open to **collaborating** on beginner-friendly projects and student tech initiatives  
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-C%2FC++-blue?style=flat-square" alt="C & C++ Badge"/>
+  <img src="https://img.shields.io/badge/Code-Python-yellow?style=flat-square" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Web-HTML%2FCSS%2FJavaScript-orange?style=flat-square" alt="Web Badge"/>
+  <img src="https://img.shields.io/badge/Tools-Git%2C%20Linux%2C%20VS%20Code%2C%20Figma-green?style=flat-square" alt="Tools Badge"/>
+  <img src="https://img.shields.io/badge/Exploring-React%20%7C%20Node.js%20%7C%20Docker-purple?style=flat-square" alt="Exploring Badge"/>
+</div>
 
+---
+
+<h2 align="center">🌟 Quote</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <em>"Stay hungry, stay foolish." – Steve Jobs</em>
 </p>
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syadmdsaifulislammonna&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Syadmdsaifulislammonna&theme=radical" height="165" />
-</p>
-
----
-
-## 🌟 Projects
-
-- [🔗 Project Name 1](#)
-- [🔗 Project Name 2](#)
-- [🔗 Project Name 3](#)
-
----
-
-## 📫 Let's Connect!
-
+<h2 align="center">📫 Connect With Me</h2>
 <p align="center">
   <a href="mailto:mdsaifulislammonna@enginner.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-mdsaifulislammonna%40enginner.com-red?style=for-the-badge" alt="Email Badge"/>
   </a>
-  <!-- Add more socials if you want! -->
+  <br>
+  <a href="https://github.com/Syadmdsaifulislammonna">
+    <img src="https://img.shields.io/github/followers/Syadmdsaifulislammonna?style=social" alt="GitHub Badge"/>
+  </a>
 </p>
 
 ---
 
+<h2 align="center">✨ Animation & Modern Design</h2>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Stay%20hungry%2C%20stay%20foolish.%20%E2%80%93%20Steve%20Jobs" alt="Quote"/>
-</p>
-
-<!-- Fun Animated Footer GIF -->
-<p align="center">
-  <img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Developer.gif" height="100"/>
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="Coding Animation" width="200"/>
 </p>
