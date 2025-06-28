@@ -1,51 +1,98 @@
-<h1 align="center">👋 Hello, World! I'm Md Saiful Islam Monna</h1>
+<!-- Animated Top Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Student-CS%26E-green?style=flat-square" alt="Student Badge"/>
-  <img src="https://img.shields.io/badge/Open--Source-Enthusiast-blue?style=flat-square" alt="Open Source Badge"/>
-  <img src="https://img.shields.io/badge/Location-Bangladesh%20🇧🇩-orange?style=flat-square" alt="Location Badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=900&color=9F2B68&center=true&vCenter=true&width=650&lines=Hi%2C+I%E2%80%99m+Shekhom+Ar+Faruk+%F0%9F%91%8B;EEE+Student+%7C+IoT+Enthusiast+%7C+Electronics+Maker+%E2%9A%A1;Building+things+that+blink%2C+beep%2C+and+move+%F0%9F%9A%80;Let%E2%80%99s+Automate+the+World+together!+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
----
-
-🎓 **Computer Science and Engineering student** at **Uttara University**, Bangladesh 🇧🇩  
-💻 **Passionate** about coding, Linux, cloud technologies, and open-source development  
-🌱 Currently **learning** **Full-Stack Development**, **Python**, and **Cloud Computing**  
-📚 Open to **collaborating** on beginner-friendly projects and student tech initiatives  
-
----
-
-<h2 align="center">🛠️ Tech Stack</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Code-C%2FC++-blue?style=flat-square" alt="C & C++ Badge"/>
-  <img src="https://img.shields.io/badge/Code-Python-yellow?style=flat-square" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Web-HTML%2FCSS%2FJavaScript-orange?style=flat-square" alt="Web Badge"/>
-  <img src="https://img.shields.io/badge/Tools-Git%2C%20Linux%2C%20VS%20Code%2C%20Figma-green?style=flat-square" alt="Tools Badge"/>
-  <img src="https://img.shields.io/badge/Exploring-React%20%7C%20Node.js%20%7C%20Docker-purple?style=flat-square" alt="Exploring Badge"/>
-</div>
-
----
-
-<h2 align="center">🌟 Quote</h2>
+<!-- Animated Section Buttons -->
 <p align="center">
-  <em>"Stay hungry, stay foolish." – Steve Jobs</em>
-</p>
-
----
-
-<h2 align="center">📫 Connect With Me</h2>
-<p align="center">
-  <a href="mailto:mdsaifulislammonna@enginner.com">
-    <img src="https://img.shields.io/badge/Email-mdsaifulislammonna%40enginner.com-red?style=for-the-badge" alt="Email Badge"/>
+  <a href="#about-me">
+    <img src="https://img.shields.io/badge/About%20Me-Gradient?style=for-the-badge&logoColor=white&labelColor=FFD700&color=FF69B4&logo=aboutdotme" alt="About Me" style="animation: pulse 2s infinite;"/>
   </a>
-  <br>
-  <a href="https://github.com/Syadmdsaifulislammonna">
-    <img src="https://img.shields.io/github/followers/Syadmdsaifulislammonna?style=social" alt="GitHub Badge"/>
+  <a href="#tech-stack">
+    <img src="https://img.shields.io/badge/Tech%20Stack-Gradient?style=for-the-badge&logoColor=white&labelColor=7FFFD4&color=00BFFF&logo=code" alt="Tech Stack" style="animation: colorchange 2s infinite;"/>
+  </a>
+  <a href="#github-stats">
+    <img src="https://img.shields.io/badge/GitHub%20Stats-Gradient?style=for-the-badge&logoColor=white&color=FF6347&labelColor=00FF00&logo=github" alt="GitHub Stats" />
+  </a>
+  <a href="#contact">
+    <img src="https://img.shields.io/badge/Contact-Gradient?style=for-the-badge&logoColor=white&color=40E0D0&labelColor=8A2BE2&logo=gmail" alt="Contact" />
   </a>
 </p>
 
+<!-- Gradient Animated Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20My%20Profile!&fontSize=36&fontAlignY=40" />
+</p>
+
 ---
 
-<h2 align="center">✨ Animation & Modern Design</h2>
+## <a id="about-me"></a>🌈 About Me
+
+<!-- About Me Animated SVG -->
 <p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="Coding Animation" width="200"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=FF6347&center=true&vCenter=true&width=600&lines=Electronics+%7C+IoT+%7C+Robotics+%7C+Automation;I+love+blinking+LEDs%2C+coding+logic%2C+and+solving+real-world+problems!" alt="About Animation" />
+</p>
+
+- 🎓 **Electrical and Electronic Engineering (EEE) Student** at Uttara University, Dhaka, Bangladesh  
+- 👀 **Interests:** Electronics, Embedded Systems, IoT, Robotics, Software Development  
+- 🌱 **Currently Learning:** C/C++, Python, Arduino, Microcontroller Programming  
+- 💞️ **Open to Collaborate:** IoT, Automation, Electronics Open-Source Projects  
+- 📫 **Contact:** shekhomarfaruk2001@gmail.com | [LinkedIn](https://www.linkedin.com/in/shekhomarfaruk)  
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun Fact:** I enjoy building things that blink, beep, and move!
+
+---
+
+## <a id="tech-stack"></a>🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proteus-58B947?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fritzing-E44D27?style=for-the-badge"/>
+</p>
+
+---
+
+## <a id="github-stats"></a>📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shekhomarfaruk&show_icons=true&theme=radical&hide_title=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shekhomarfaruk&theme=radical" height="165"/>
+</p>
+
+---
+
+## 🌟 Projects
+
+- [🔗 Project 1: Smart Home Automation](#)
+- [🔗 Project 2: Line Follower Robot](#)
+- [🔗 Project 3: IoT Weather Station](#)
+
+---
+
+## <a id="contact"></a>📫 Let's Connect!
+
+<p align="center">
+  <a href="mailto:shekhomarfaruk2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shekhomarfaruk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- Animated Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Stay%20hungry%2C%20stay%20foolish.%20%E2%80%93%20Steve%20Jobs" alt="Quote"/>
+</p>
+
+<!-- Animated Footer GIF -->
+<p align="center">
+  <img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Developer.gif" height="100"/>
 </p>
