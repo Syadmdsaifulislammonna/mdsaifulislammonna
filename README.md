@@ -87,12 +87,13 @@
 
 ---
 
-<!-- Animated Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Stay%20hungry%2C%20stay%20foolish.%20%E2%80%93%20Steve%20Jobs" alt="Quote"/>
-</p>
 
 <!-- Animated Footer GIF -->
 <p align="center">
   <img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Developer.gif" height="100"/>
+</p>
+
+<!-- Animated Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Stay%20hungry%2C%20stay%20foolish.%20%E2%80%93%20Steve%20Jobs" alt="Quote"/>
 </p>
