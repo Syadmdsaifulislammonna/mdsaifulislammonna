@@ -1,54 +1,83 @@
-# 👋 Hello, World! I'm Md Saiful Islam Monna 🚀
+<!-- Modern & Colorful Animated Profile README for Md Saiful Islam Monna -->
 
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub)
+<!-- Animated Typing SVG Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00B2FF&center=true&vCenter=true&width=700&lines=Hello%2C+World!+I'm+Md+Saiful+Islam+Monna+%F0%9F%91%8B;CSE+Student+%7C+Cloud+Enthusiast+%7C+Open+Source+Lover;Building+my+future+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-🎓 **Computer Science and Engineering** student at **Uttara University**, Bangladesh 🇧🇩  
-💻 Passion📚 for collaboration on beginner-friendly projects and student tech initiatives 💡  
+<!-- Badges for quick info -->
+<p align="center">
+  <img src="https://img.shields.io/badge/CSE%20Student-Uttara%20University-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Enthusiast-yellowgreen?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Computing-Explorer-29ABE2?style=for-the-badge&logo=cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Dev-Active-orange?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 **Computer Science and Engineering student** at **Uttara University**, Bangladesh 🇧🇩  
+- 💻 Passionate about **coding**, **Linux**, **cloud technologies**, and **open-source**  
+- 🌱 Currently learning **Full-Stack Development**, **Python**, and **Cloud Computing**  
+- 🤝 Open to collaborating on beginner-friendly projects and student tech initiatives  
+
+---
+
+## 📧 Contact Me
+
+<p align="center">
+  <a href="mailto:mdsaifulislammonna@enginner.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <!-- Add your LinkedIn or other profiles below -->
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages  
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-### Exploring  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
-## ✨ Connect with Me
+## ✨ GitHub Stats
 
-📫 Email: [mdsaifulislammonna@enginner.com](mailto:mdsaifulislammonna@enginner.com)  
-🌐 Website: [My Portfolio](https://via.placeholder.com)  
-💬 Discord: `your_discord_name#1234`  
-
----
-
-## 🌟 Quote of the Day  
-> *"Stay hungry, stay foolish." – Steve Jobs*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsaifulislammonna&show_icons=true&theme=tokyonight&hide_title=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdsaifulislammonna&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdsaifulislammonna&theme=tokyo-night&hide_border=true" height="200"/>
+</p>
 
 ---
 
-### 🎨 Fun Animations
+## 🚀 Featured Projects
 
-#### **My GitHub Profile at a Glance**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syadmdsaifulislammonna&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syadmdsaifulislammonna&layout=compact&theme=radical)
+- [🔗 Project Name 1](#)
+- [🔗 Project Name 2](#)
+- [🔗 Project Name 3](#)
 
 ---
 
-✨ **Thanks for visiting my profile! Keep exploring, keep coding!** 🚀
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Stay%20hungry%2C%20stay%20foolish.%20%E2%80%93%20Steve%20Jobs" alt="Quote"/>
+</p>
+
+<!-- Fun Animated Footer GIF -->
+<p align="center">
+  <img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Developer.gif" height="100"/>
+</p>
