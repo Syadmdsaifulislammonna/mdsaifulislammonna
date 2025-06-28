@@ -1,15 +1,13 @@
 <!-- Modern & Colorful Animated Profile README for Md Saiful Islam Monna -->
 
-<!-- Animated Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00B2FF&center=true&vCenter=true&width=700&lines=Hello%2C+World!+I'm+Md+Saiful+Islam+Monna+%F0%9F%91%8B;CSE+Student+%7C+Cloud+Enthusiast+%7C+Open+Source+Lover;Building+my+future+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=29ABE2&center=true&vCenter=true&width=700&lines=Hello%2C+world!+I'm+Md+Saiful+Islam+Monna+%F0%9F%91%8B;CSE+Student+at+Uttara+University+%F0%9F%8F%AB;Cloud+%7C+Linux+%7C+Open+Source+%7C+Dev+%F0%9F%92%BB;Keep+Learning+Keep+Growing+%F0%9F%8C%8F" alt="Typing SVG" />
 </p>
 
-<!-- Badges for quick info -->
 <p align="center">
   <img src="https://img.shields.io/badge/CSE%20Student-Uttara%20University-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-Enthusiast-yellowgreen?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud%20Computing-Explorer-29ABE2?style=for-the-badge&logo=cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Enthusiast-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cloud%20Computing-Learner-29ABE2?style=for-the-badge&logo=cloudflare&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open%20Source%20Dev-Active-orange?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
@@ -21,17 +19,6 @@
 - 💻 Passionate about **coding**, **Linux**, **cloud technologies**, and **open-source**  
 - 🌱 Currently learning **Full-Stack Development**, **Python**, and **Cloud Computing**  
 - 🤝 Open to collaborating on beginner-friendly projects and student tech initiatives  
-
----
-
-## 📧 Contact Me
-
-<p align="center">
-  <a href="mailto:mdsaifulislammonna@enginner.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <!-- Add your LinkedIn or other profiles below -->
-</p>
 
 ---
 
@@ -55,21 +42,31 @@
 
 ---
 
-## ✨ GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsaifulislammonna&show_icons=true&theme=tokyonight&hide_title=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdsaifulislammonna&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdsaifulislammonna&theme=tokyo-night&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsaifulislammonna&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdsaifulislammonna&theme=radical" height="165" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Projects
 
 - [🔗 Project Name 1](#)
 - [🔗 Project Name 2](#)
 - [🔗 Project Name 3](#)
+
+---
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="mailto:mdsaifulislammonna@enginner.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <!-- Add more socials if you want! -->
+</p>
 
 ---
 
